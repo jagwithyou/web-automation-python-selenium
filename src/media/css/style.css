@@ -1,0 +1,24 @@
+/* table td {
+    padding: 5px;
+    border: 1px solid #E6E6E6;
+    text-align: left;
+    background: black;
+}
+#results-table{
+
+} */
+
+#results-table {
+    border: 1px solid #171313;
+    color: #271f1f;
+    font-size: 12px;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-top: 1px solid #000;
+}
+tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
