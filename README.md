@@ -2,9 +2,8 @@
 
 This is a framework that will make your life easier in the field of automation testing. The goal of this framework is to making automation testing as easier as python that any one can learn and start using easily. your support will be highly appriciated in this process of making this as the easiest and effective framework in the field of automation testing. Please join us by contributing your inputs and giving this repo a star.  
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XzIFtjWXUHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+https://user-images.githubusercontent.com/50165036/154853172-5a883d20-1fc3-4fbc-a4f8-7411dab2954c.mp4
+
 #### Below are few useful features of this framework
 - Modular Design.
 - Report generation.
