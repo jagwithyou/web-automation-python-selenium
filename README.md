@@ -129,6 +129,7 @@ class TestGooglePage(BaseClass):
 
 </pre>
 
+
 As you can see first we have declared a class that is inherited from the BaseClass and inside it we are writing the test cases. you can assume this class as the ***TestSuite*** and each of the methods as the testcases inside the test-suite. you can write number of testcases inside this class. All the test cases should start as ***test_*** and they are executed alphabetically. so if you want any order of execution then please mention as ***test_1_***. You can give any number (1,2,3) and they will be executed with this order.
 
 The next line is for log if you don't want log you can skip it. After that the operation starts. give your attention to the below three lines.
